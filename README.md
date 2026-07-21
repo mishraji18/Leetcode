@@ -43,3 +43,11 @@ I'm a passionate **Full Stack Developer** 🚀 from INDIA, with a strong interes
 
 
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Database
+|  |
+| ------- |
+| [0177-nth-highest-salary](https://github.com/mishraji18/Leetcode/tree/master/0177-nth-highest-salary) |
+<!---LeetCode Topics End-->
