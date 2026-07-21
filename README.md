@@ -50,4 +50,5 @@ I'm a passionate **Full Stack Developer** 🚀 from INDIA, with a strong interes
 |  |
 | ------- |
 | [0177-nth-highest-salary](https://github.com/mishraji18/Leetcode/tree/master/0177-nth-highest-salary) |
+| [0180-consecutive-numbers](https://github.com/mishraji18/Leetcode/tree/master/0180-consecutive-numbers) |
 <!---LeetCode Topics End-->
