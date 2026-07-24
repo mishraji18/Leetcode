@@ -63,11 +63,13 @@ I'm a passionate **Full Stack Developer** 🚀 from INDIA, with a strong interes
 |  |
 | ------- |
 | [3499-maximize-active-section-with-trade-i](https://github.com/mishraji18/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/mishraji18/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Array
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mishraji18/Leetcode/tree/master/0001-two-sum) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/mishraji18/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/mishraji18/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -80,4 +82,12 @@ I'm a passionate **Full Stack Developer** 🚀 from INDIA, with a strong interes
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mishraji18/Leetcode/tree/master/0001-two-sum) |
+## Math
+|  |
+| ------- |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/mishraji18/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/mishraji18/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 <!---LeetCode Topics End-->
