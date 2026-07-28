@@ -58,6 +58,7 @@ I'm a passionate **Full Stack Developer** 🚀 from INDIA, with a strong interes
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/mishraji18/Leetcode/tree/master/0058-length-of-last-word) |
 | [0087-scramble-string](https://github.com/mishraji18/Leetcode/tree/master/0087-scramble-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/mishraji18/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/mishraji18/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
