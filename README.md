@@ -54,6 +54,7 @@ I'm a passionate **Full Stack Developer** 🚀 from INDIA, with a strong interes
 | [0182-duplicate-emails](https://github.com/mishraji18/Leetcode/tree/master/0182-duplicate-emails) |
 | [0185-department-top-three-salaries](https://github.com/mishraji18/Leetcode/tree/master/0185-department-top-three-salaries) |
 | [0262-trips-and-users](https://github.com/mishraji18/Leetcode/tree/master/0262-trips-and-users) |
+| [0550-game-play-analysis-iv](https://github.com/mishraji18/Leetcode/tree/master/0550-game-play-analysis-iv) |
 | [0601-human-traffic-of-stadium](https://github.com/mishraji18/Leetcode/tree/master/0601-human-traffic-of-stadium) |
 ## String
 |  |
