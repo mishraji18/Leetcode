@@ -74,6 +74,7 @@ I'm a passionate **Full Stack Developer** 🚀 from INDIA, with a strong interes
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mishraji18/Leetcode/tree/master/0001-two-sum) |
+| [1406-stone-game-iii](https://github.com/mishraji18/Leetcode/tree/master/1406-stone-game-iii) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/mishraji18/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/mishraji18/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Binary Search
@@ -92,6 +93,7 @@ I'm a passionate **Full Stack Developer** 🚀 from INDIA, with a strong interes
 ## Math
 |  |
 | ------- |
+| [1406-stone-game-iii](https://github.com/mishraji18/Leetcode/tree/master/1406-stone-game-iii) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/mishraji18/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/mishraji18/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Bit Manipulation
@@ -102,6 +104,7 @@ I'm a passionate **Full Stack Developer** 🚀 from INDIA, with a strong interes
 |  |
 | ------- |
 | [0087-scramble-string](https://github.com/mishraji18/Leetcode/tree/master/0087-scramble-string) |
+| [1406-stone-game-iii](https://github.com/mishraji18/Leetcode/tree/master/1406-stone-game-iii) |
 ## Sorting
 |  |
 | ------- |
@@ -115,4 +118,16 @@ I'm a passionate **Full Stack Developer** 🚀 from INDIA, with a strong interes
 |  |
 | ------- |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/mishraji18/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/mishraji18/Leetcode/tree/master/1406-stone-game-iii) |
+## Game Theory
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/mishraji18/Leetcode/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/mishraji18/Leetcode/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
