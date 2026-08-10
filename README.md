@@ -97,6 +97,7 @@ I'm a passionate **Full Stack Developer** 🚀 from INDIA, with a strong interes
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/mishraji18/Leetcode/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/mishraji18/Leetcode/tree/master/1510-stone-game-iv) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/mishraji18/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/mishraji18/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/mishraji18/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -109,6 +110,7 @@ I'm a passionate **Full Stack Developer** 🚀 from INDIA, with a strong interes
 | ------- |
 | [0087-scramble-string](https://github.com/mishraji18/Leetcode/tree/master/0087-scramble-string) |
 | [1406-stone-game-iii](https://github.com/mishraji18/Leetcode/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/mishraji18/Leetcode/tree/master/1510-stone-game-iv) |
 ## Sorting
 |  |
 | ------- |
@@ -127,14 +129,17 @@ I'm a passionate **Full Stack Developer** 🚀 from INDIA, with a strong interes
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/mishraji18/Leetcode/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/mishraji18/Leetcode/tree/master/1510-stone-game-iv) |
 ## Game Theory
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/mishraji18/Leetcode/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/mishraji18/Leetcode/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/mishraji18/Leetcode/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/mishraji18/Leetcode/tree/master/1510-stone-game-iv) |
 ## Tree
 |  |
 | ------- |
@@ -151,4 +156,12 @@ I'm a passionate **Full Stack Developer** 🚀 from INDIA, with a strong interes
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/mishraji18/Leetcode/tree/master/0100-same-tree) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/mishraji18/Leetcode/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/mishraji18/Leetcode/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
