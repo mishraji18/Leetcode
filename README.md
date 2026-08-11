@@ -1,7 +1,6 @@
 # Hi there, I'm Devansh Mishra 👋
 
 ---
-
 ## 🚀 About Me
 
 I'm a passionate **Full Stack Developer** 🚀 from INDIA, with a strong interest in building creative and high-performing web applications.
