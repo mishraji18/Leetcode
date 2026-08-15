@@ -6,7 +6,7 @@
 
 I'm a passionate **Full Stack Developer** 🚀 from INDIA, with a strong interest in building creative and high-performing web applications.
 
-- 🔭 I’m currently working on: **A Recipe Chatbot**
+- 🔭 I’m currently working on: **A Recipe Chatbot** 
 - 🌱 I’m currently learning: **Python,JS,MySQL**
 - 👯 I’m looking to collaborate on: ** Exciting Full Stack Projects and Hackathons**
 - 💬 Ask me about: **Web Development, Cloud, and AI**
