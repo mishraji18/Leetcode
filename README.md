@@ -76,6 +76,7 @@ I'm a passionate **Full Stack Developer** 🚀 from INDIA, with a strong interes
 | ------- |
 | [0001-two-sum](https://github.com/mishraji18/Leetcode/tree/master/0001-two-sum) |
 | [1406-stone-game-iii](https://github.com/mishraji18/Leetcode/tree/master/1406-stone-game-iii) |
+| [1872-stone-game-viii](https://github.com/mishraji18/Leetcode/tree/master/1872-stone-game-viii) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/mishraji18/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/mishraji18/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3731-find-missing-elements](https://github.com/mishraji18/Leetcode/tree/master/3731-find-missing-elements) |
@@ -98,6 +99,7 @@ I'm a passionate **Full Stack Developer** 🚀 from INDIA, with a strong interes
 | ------- |
 | [1406-stone-game-iii](https://github.com/mishraji18/Leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/mishraji18/Leetcode/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/mishraji18/Leetcode/tree/master/1872-stone-game-viii) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/mishraji18/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/mishraji18/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/mishraji18/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -111,6 +113,7 @@ I'm a passionate **Full Stack Developer** 🚀 from INDIA, with a strong interes
 | [0087-scramble-string](https://github.com/mishraji18/Leetcode/tree/master/0087-scramble-string) |
 | [1406-stone-game-iii](https://github.com/mishraji18/Leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/mishraji18/Leetcode/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/mishraji18/Leetcode/tree/master/1872-stone-game-viii) |
 ## Sorting
 |  |
 | ------- |
@@ -130,16 +133,19 @@ I'm a passionate **Full Stack Developer** 🚀 from INDIA, with a strong interes
 | ------- |
 | [1406-stone-game-iii](https://github.com/mishraji18/Leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/mishraji18/Leetcode/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/mishraji18/Leetcode/tree/master/1872-stone-game-viii) |
 ## Game Theory
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/mishraji18/Leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/mishraji18/Leetcode/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/mishraji18/Leetcode/tree/master/1872-stone-game-viii) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/mishraji18/Leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/mishraji18/Leetcode/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/mishraji18/Leetcode/tree/master/1872-stone-game-viii) |
 ## Tree
 |  |
 | ------- |
@@ -164,4 +170,8 @@ I'm a passionate **Full Stack Developer** 🚀 from INDIA, with a strong interes
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/mishraji18/Leetcode/tree/master/1510-stone-game-iv) |
+## Prefix Sum
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/mishraji18/Leetcode/tree/master/1872-stone-game-viii) |
 <!---LeetCode Topics End-->
