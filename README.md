@@ -74,6 +74,7 @@ I'm a passionate **Full Stack Developer** 🚀 from INDIA, with a strong interes
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/mishraji18/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/mishraji18/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/mishraji18/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/mishraji18/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Array
@@ -82,6 +83,7 @@ I'm a passionate **Full Stack Developer** 🚀 from INDIA, with a strong interes
 | [0001-two-sum](https://github.com/mishraji18/Leetcode/tree/master/0001-two-sum) |
 | [1406-stone-game-iii](https://github.com/mishraji18/Leetcode/tree/master/1406-stone-game-iii) |
 | [1872-stone-game-viii](https://github.com/mishraji18/Leetcode/tree/master/1872-stone-game-viii) |
+| [3483-unique-3-digit-even-numbers](https://github.com/mishraji18/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/mishraji18/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/mishraji18/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3731-find-missing-elements](https://github.com/mishraji18/Leetcode/tree/master/3731-find-missing-elements) |
@@ -97,6 +99,7 @@ I'm a passionate **Full Stack Developer** 🚀 from INDIA, with a strong interes
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mishraji18/Leetcode/tree/master/0001-two-sum) |
+| [3483-unique-3-digit-even-numbers](https://github.com/mishraji18/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/mishraji18/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3731-find-missing-elements](https://github.com/mishraji18/Leetcode/tree/master/3731-find-missing-elements) |
 ## Math
@@ -183,4 +186,8 @@ I'm a passionate **Full Stack Developer** 🚀 from INDIA, with a strong interes
 |  |
 | ------- |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/mishraji18/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+## Recursion
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/mishraji18/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
