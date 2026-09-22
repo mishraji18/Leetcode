@@ -76,6 +76,7 @@ I'm a passionate **Full Stack Developer** 🚀 from INDIA, with a strong interes
 ## Enumeration
 |  |
 | ------- |
+| [1291-sequential-digits](https://github.com/mishraji18/Leetcode/tree/master/1291-sequential-digits) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/mishraji18/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/mishraji18/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/mishraji18/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
