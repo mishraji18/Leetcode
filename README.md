@@ -68,6 +68,7 @@ I'm a passionate **Full Stack Developer** 🚀 from INDIA, with a strong interes
 | ------- |
 | [0058-length-of-last-word](https://github.com/mishraji18/Leetcode/tree/master/0058-length-of-last-word) |
 | [0087-scramble-string](https://github.com/mishraji18/Leetcode/tree/master/0087-scramble-string) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/mishraji18/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/mishraji18/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/mishraji18/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/mishraji18/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -87,6 +88,7 @@ I'm a passionate **Full Stack Developer** 🚀 from INDIA, with a strong interes
 | [0001-two-sum](https://github.com/mishraji18/Leetcode/tree/master/0001-two-sum) |
 | [1406-stone-game-iii](https://github.com/mishraji18/Leetcode/tree/master/1406-stone-game-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/mishraji18/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/mishraji18/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1872-stone-game-viii](https://github.com/mishraji18/Leetcode/tree/master/1872-stone-game-viii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/mishraji18/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/mishraji18/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -109,6 +111,7 @@ I'm a passionate **Full Stack Developer** 🚀 from INDIA, with a strong interes
 | ------- |
 | [0001-two-sum](https://github.com/mishraji18/Leetcode/tree/master/0001-two-sum) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/mishraji18/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/mishraji18/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3483-unique-3-digit-even-numbers](https://github.com/mishraji18/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/mishraji18/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3731-find-missing-elements](https://github.com/mishraji18/Leetcode/tree/master/3731-find-missing-elements) |
