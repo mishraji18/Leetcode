@@ -63,6 +63,7 @@ I'm a passionate **Full Stack Developer** 🚀 from INDIA, with a strong interes
 | [0584-find-customer-referee](https://github.com/mishraji18/Leetcode/tree/master/0584-find-customer-referee) |
 | [0585-investments-in-2016](https://github.com/mishraji18/Leetcode/tree/master/0585-investments-in-2016) |
 | [0601-human-traffic-of-stadium](https://github.com/mishraji18/Leetcode/tree/master/0601-human-traffic-of-stadium) |
+| [1148-article-views-i](https://github.com/mishraji18/Leetcode/tree/master/1148-article-views-i) |
 ## String
 |  |
 | ------- |
